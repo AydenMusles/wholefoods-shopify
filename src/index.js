@@ -8,8 +8,8 @@ import App from './components/App';
 
 
 const client = Client.buildClient({
-  storefrontAccessToken: 'cee38e88108f0288d93d539b61876095',
-  domain: 'second-og-wholefoods.myshopify.com'
+  storefrontAccessToken: 'b0ce81d4056a180c1e5e754a11f58dbb',
+  domain: 'musles-apparel.myshopify.com'
 });
 
 ReactDOM.render(
